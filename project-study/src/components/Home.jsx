@@ -4,8 +4,8 @@ const Home = () => {
  
 
   return (
-    <div>
-        Home component
+    <div style={{color: 'white'}}>
+      home component contents
     </div>
   )
 }

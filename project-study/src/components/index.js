@@ -11,3 +11,4 @@ export { default as Home } from "./Home";
 export { default as Loader } from "./Loader";
 export { default as Ebooks } from "./Ebooks";
 export { default as ChatGptFeed } from "./ChatGptFeed";
+export { default as Practice } from "./Practice";

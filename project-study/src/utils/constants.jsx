@@ -9,6 +9,5 @@ export const categories = [
   { name: "youtube", display: "Youtube Videos", icon: <YouTubeIcon /> },
   { name: "chatgpt", display: "Chat GPT", icon: <PsychologySharpIcon fontSize="medium"/> },
   { name: "ebooks", display: `E-Books`, icon: <AutoStoriesRoundedIcon /> },
-  { name: "n3", display: "type4", icon: <LightbulbRoundedIcon /> },
-  { name: "n3", display: "type5", icon: <LightbulbRoundedIcon /> },
+  { name: "practice", display: "Practice", icon: <LightbulbRoundedIcon /> },
 ];
